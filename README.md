@@ -21,7 +21,7 @@
 - 🛠️ Git | Docker
 
 ### 📊 GitHub Stats:
-![Kushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kushal-deb&show_icons=true&theme=radical)
+![Kushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kushal-deb&show_icons=true&theme=radical&hide=stars)
 
 
 <!---
